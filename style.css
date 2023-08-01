@@ -2,7 +2,6 @@
 .section {
     margin-top: 3rem;
     padding-top: 3rem;
-
 }
 .section:last-of-type {
     padding-bottom: 4rem;
@@ -11,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('https://images.unsplash.com/photo-1532043772213-09a6cec77cfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80');
+    background: url('https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/290169351_4780347715404663_2441658734432210254_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=174925&_nc_ohc=FSo67kN-jPMAX9X0ztF&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfBRIG7fgbotrd1_N08ROjsI-Mvw18h7ClGEIS_MjhvBRw&oe=64CEE741');
     background-size:cover;
     position:relative;
     padding: 0;
@@ -52,7 +51,7 @@
 .fa-github:hover,
 .fa-pinterest:hover, 
 .fa-discord:hover {
-    color: #000000;
+    color: #fff;
 }
 .fab {
     color: #000000;
