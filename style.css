@@ -6,6 +6,7 @@
 }
 .section:last-of-type {
     padding-bottom: 4rem;
+    color: black;
 }
     
 /* hero background image */
@@ -16,14 +17,17 @@
     position:relative;
     padding: 0;
     margin: 0;
+    color: black;
 }
 /* text css above hero image*/
 .hero_title {
     padding-top: 10rem;
     font-size: 4.5rem;
+    color: black;
 }
 .hero_desc {
     font-size: 2rem;
+    color: black;
 }
 .hero_text {
     text-align: center;
@@ -36,16 +40,19 @@
 
 .image_about {
     width: 100%;
+    color: black;
 }
 
 .navbarDark {
     background: #000;
+    color: black;
 }
 
 
 .social-icons {
     font-size: 24px;
     cursor: pointer;
+    color: black;
 }
 .fa-facebook:hover,
 .fa-behance:hover,
@@ -53,6 +60,7 @@
 .fa-pinterest:hover, 
 .fa-discord:hover {
     color: #000000;
+    color: black;
 }
 .fab {
     color: #000000;
@@ -61,23 +69,28 @@
 .servicesText.card {
     height: 280px;
     cursor: pointer;
+    color: black;   
   }
 .servicesIcon {
     font-size: 36px;
     text-align: center;
     width: 100%;
+    color: black;
 }
 .card-title {
     text-align: center;
+    color: black;
 }
 .card:hover .servicesIcon {
     color: #008000;
+    color: black;
 }
 .servicesText:hover {
     border: 1px solid #008000;
+    color: black;
 }
 
 .footer {
-    background-color: #fff;
+    background-color: black;
     text-align: center;
 }
